@@ -1,6 +1,6 @@
 # Blogite
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/appbuff/blogite/blob/master/licence)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/appbuff/blogite/blob/master/LICENSE)
 
 Flutter App Based on WordPress Blog :tada:
 
